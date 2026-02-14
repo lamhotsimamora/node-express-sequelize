@@ -1,0 +1,1 @@
+npm install express cors nodemon sequelize dotenv mysql2
